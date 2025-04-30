@@ -1,4 +1,4 @@
-## Bem vindo !  ♻ ✌
+## Bem vindo !  ♻ 
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafcma&theme=synthwave">
