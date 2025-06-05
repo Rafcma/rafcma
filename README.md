@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Olá! Sou **rafcma**, e este é um espaço para explorar meus projetos e contribuições no universo do desenvolvimento de software e jogos. Meu foco é criar soluções eficientes e de alta qualidade.
+Prazer, sou  **Rafael Costa**, e este é um espaço para explorar meus projetos e contribuições no universo do desenvolvimento de software e jogos. Meu foco é criar soluções eficientes e de alta qualidade.
 
 ---
 
