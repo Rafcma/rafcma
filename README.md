@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Olá! Sou **rafcma**, e este é um espaço para explorar meus projetos e contribuições no universo do desenvolvimento de software. Meu foco é criar soluções eficientes e de alta qualidade.
+Olá! Sou **rafcma**, e este é um espaço para explorar meus projetos e contribuições no universo do desenvolvimento de software e jogos. Meu foco é criar soluções eficientes e de alta qualidade.
 
 ---
 
@@ -33,9 +33,6 @@ Explore minhas contribuições e atividades no GitHub de uma forma visual e trid
   </a>
 </div>
 
-<div align="center">
-  [**🚀 Explore meu Skyline 3D agora!**](https://skyline3d.in/rafcma/embed?endDate=2025-06-05&enableZoom=false)
-</div>
 
 ---
 
